@@ -1,4 +1,8 @@
+b2347d2 Task 2.4
+d84f8f2 Task 2.3
 9603058 Task 2.3
+7b16bae Task 2.2
+e75e667 Task 2.2
 2510ab0 Task 2.2
 2455002 Task 2.1
 efbddfb Task 2.1
