@@ -26,7 +26,7 @@ public class StatementPrinter {
                 + System.lineSeparator());
 
         result.append(String.format("Amount owed is %s%n", usd(getTotalAmount(result))));
-        result.append(String.format("You earned %s credits%n", getTotalVolumn()));
+        result.append(String.format("You earned %s credits%n", getTotalVolumnCredits()));
 
         return result.toString();
     }
